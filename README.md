@@ -19,19 +19,41 @@ VS Code är en snabbt och lättanvänt IDE som du kan skapa ditt C#-projekt med.
 
 ### VS Code inställningar
 
-* Gå in Inställningar och klistra in följande:
+* Slå **Ctrl + Skift + P** och **Open User Settings (JSON)**
+* Klistra in följande:
 
 ```JSON
-    ,
-    "files.associations": {
-        "*.xaml": "xml"
-    },
-    "xml.fileAssociations": [
-        {
-            "pattern": "**/*.xaml",
-            "systemId": "https://raw.githubusercontent.com/karye/xamelot/refs/heads/master/syntax/xaml.xsd"
-        }
-    ],
+,
+"files.associations": {
+    "*.xaml": "xml"
+},
+"xml.fileAssociations": [
+    {
+        "pattern": "**/*.xaml",
+        "systemId": "https://raw.githubusercontent.com/karye/xamelot/refs/heads/master/syntax/xaml.xsd"
+    }
+],
+```
+
+### VS Code Snippet
+
+* Slå **Ctrl + Skift + P** och **Snippets: Configure Snippets**
+* Välj **New Global Snippets File ...**
+* Klistra in följande:
+
+```JSON
+{
+    "XAML event": {
+		"prefix": "event",
+		"body": [
+			"private void $1(object sender, RoutedEventArgs e)",
+			"{",
+			"\t$2",
+			"}"
+		],
+		"description": "Metod för att fånga event från XAML"
+	}
+}
 ```
 
 ## Skapa C#-projekt
