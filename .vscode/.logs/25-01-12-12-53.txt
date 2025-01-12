@@ -1,0 +1,155 @@
+25-01-12 12:53 Session started
+----------------------------------------
+12:53:58 Document switched to: d:\Github\KARYE-PROG-1\prog1-wpf\global.json
+----------------------------------------
+
+12:54:06 002:021 > 8
+12:54:11 Document switched to: d:\Github\KARYE-PROG-1\prog1-wpf\.vscode\settings.json
+----------------------------------------
+12:54:27 Document switched to: d:\Github\KARYE-PROG-1\prog1-wpf\README.md
+----------------------------------------
+12:54:40 Document switched to: d:\Github\KARYE-PROG-1\prog1-wpf\README.md
+----------------------------------------
+
+12:54:45 008:022 > 8
+
+12:54:53 007:000 > *
+12:55:04 007:089 > *8
+
+12:55:40 019:000 > #
+12:55:40 019:001 > ##
+12:55:41 019:002 > ###
+12:55:42 019:004 > ### V
+12:55:42 019:005 > ### VS
+12:55:43 019:007 > ### VS C
+12:55:43 019:008 > ### VS Co
+12:55:44 019:009 > ### VS Cod
+12:55:44 019:010 > ### VS Code
+12:55:44 019:012 > ### VS Code i
+12:55:44 019:013 > ### VS Code in
+12:55:45 019:014 > ### VS Code ins
+12:55:58 019:015 > ### VS Code inst
+12:55:59 019:016 > ### VS Code instä
+12:55:59 019:017 > ### VS Code instäl
+12:55:59 019:018 > ### VS Code inställ
+12:55:59 019:019 > ### VS Code inställn
+12:55:59 019:020 > ### VS Code inställni
+12:56:00 019:021 > ### VS Code inställnin
+12:56:00 019:022 > ### VS Code inställning
+12:56:00 019:023 > ### VS Code inställninga
+12:56:00 019:024 > ### VS Code inställningar
+
+12:56:05 021:000 > *
+12:56:06 021:002 > * G
+12:56:07 021:003 > * Gå
+12:56:08 021:005 > * Gå i
+12:56:08 021:006 > * Gå in
+12:56:09 021:008 > * Gå in i
+12:56:14 021:008 > * Gå in iI
+12:56:14 021:009 > * Gå in iIn
+12:56:15 021:010 > * Gå in iIns
+12:56:15 021:011 > * Gå in iInst
+12:56:15 021:012 > * Gå in iInstä
+12:56:16 021:013 > * Gå in iInstäl
+12:56:16 021:014 > * Gå in iInställ
+12:56:16 021:015 > * Gå in iInställi
+12:56:18 021:015 > * Gå in iInställin
+12:56:18 021:016 > * Gå in iInställini
+12:56:20 021:017 > * Gå in iInställinin
+12:56:20 021:018 > * Gå in iInställining
+12:56:20 021:019 > * Gå in iInställininga
+12:56:20 021:020 > * Gå in iInställiningar
+12:56:22 021:022 > * Gå in iInställiningar o
+12:56:23 021:023 > * Gå in iInställiningar oc
+12:56:23 021:024 > * Gå in iInställiningar och
+12:56:23 021:026 > * Gå in iInställiningar och k
+12:56:23 021:027 > * Gå in iInställiningar och kl
+12:56:23 021:028 > * Gå in iInställiningar och kli
+12:56:24 021:029 > * Gå in iInställiningar och klis
+12:56:24 021:030 > * Gå in iInställiningar och klist
+12:56:24 021:031 > * Gå in iInställiningar och klista
+12:56:24 021:032 > * Gå in iInställiningar och klistar
+12:56:26 021:031 > * Gå in iInställiningar och klistar r
+12:56:26 021:032 > * Gå in iInställiningar och klistar ra
+12:56:26 021:034 > * Gå in iInställiningar och klistar ra i
+12:56:26 021:035 > * Gå in iInställiningar och klistar ra in
+12:56:27 021:037 > * Gå in iInställiningar och klistar ra in f
+12:56:27 021:038 > * Gå in iInställiningar och klistar ra in fö
+12:56:27 021:039 > * Gå in iInställiningar och klistar ra in föl
+12:56:28 021:040 > * Gå in iInställiningar och klistar ra in följ
+12:56:28 021:041 > * Gå in iInställiningar och klistar ra in följa
+12:56:28 021:042 > * Gå in iInställiningar och klistar ra in följan
+12:56:28 021:043 > * Gå in iInställiningar och klistar ra in följand
+12:56:28 021:044 > * Gå in iInställiningar och klistar ra in följande
+12:56:29 021:045 > * Gå in iInställiningar och klistar ra in följande_
+12:56:30 021:045 > * Gå in iInställiningar och klistar ra in följande_:
+
+12:56:32 023:000 > `
+12:56:32 023:001 > ``
+12:56:33 023:002 > ```
+12:56:33 023:003 > ````
+12:56:35 023:003 > ````J
+12:56:36 023:004 > ````JS
+12:56:36 023:005 > ````JSO
+12:56:36 023:006 > ````JSON
+12:56:37 024:000 > ,
+    "files.associations": {
+        "*.xaml": "xml"
+    },
+    "xml.fileAssociations": [
+        {
+            "pattern": "**/*.xaml",
+            "systemId": "https://raw.githubusercontent.com/karye/xamelot/refs/heads/master/syntax/xaml.xsd"
+        }
+    ],
+
+12:56:42 034:004 > `
+12:56:42 034:005 > ``
+12:56:44 034:006 > ```
+
+12:59:32 044:011 > w
+12:59:32 044:012 > wp
+12:59:32 044:013 > wpf
+
+12:59:43 039:035 > *
+12:59:43 039:028 > **
+12:59:43 039:036 > ***
+12:59:43 039:029 > ****
+13:00:36 Document switched to: d:\Github\KARYE-PROG-1\prog1-wpf\README.md
+----------------------------------------
+
+13:00:40 001:012 > n
+13:01:08 007:024 > https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.404-windows-x64-installer
+
+13:01:25 000:000 > D
+13:01:26 000:001 > Do
+13:01:26 000:002 > Dot
+13:01:26 000:003 > Dotn
+13:01:26 000:004 > Dotne
+13:01:26 000:005 > Dotnet
+13:01:27 000:007 > Dotnet 8
+13:01:28 000:009 > Dotnet 8 o
+13:01:28 000:010 > Dotnet 8 oc
+13:01:28 000:011 > Dotnet 8 och
+13:01:33 000:013 > Dotnet 8 och R
+13:01:33 000:014 > Dotnet 8 och Re
+13:01:33 000:015 > Dotnet 8 och Red
+13:01:34 000:016 > Dotnet 8 och Redh
+13:01:34 000:017 > Dotnet 8 och Redha
+13:01:34 000:018 > Dotnet 8 och Redhat
+13:01:40 000:020 > Dotnet 8 och Redhat X
+13:01:40 000:021 > Dotnet 8 och Redhat XM
+13:01:40 000:022 > Dotnet 8 och Redhat XMA
+13:01:40 000:023 > Dotnet 8 och Redhat XMAL
+13:01:42 000:021 > Dotnet 8 och Redhat XMALA
+13:01:42 000:022 > Dotnet 8 och Redhat XMALAM
+13:01:42 000:023 > Dotnet 8 och Redhat XMALAMK
+13:01:42 000:024 > Dotnet 8 och Redhat XMALAMKL
+13:01:44 000:023 > Dotnet 8 och Redhat XMALAMKLL
+13:01:48 000:021 > Dotnet 8 och Redhat XMALAMKLLM
+13:01:48 000:022 > Dotnet 8 och Redhat XMALAMKLLML
+13:01:49 000:023 > Dotnet 8 och Redhat XMALAMKLLML-
+13:01:49 000:024 > Dotnet 8 och Redhat XMALAMKLLML-X
+13:01:49 000:025 > Dotnet 8 och Redhat XMALAMKLLML-XA
+13:01:51 000:026 > Dotnet 8 och Redhat XMALAMKLLML-XAM
+13:01:51 000:027 > Dotnet 8 och Redhat XMALAMKLLML-XAML
