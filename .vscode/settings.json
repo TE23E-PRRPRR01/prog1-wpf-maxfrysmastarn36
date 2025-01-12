@@ -1,0 +1,51 @@
+{
+    "workbench.iconTheme": "vscode-great-icons",
+    "git.openRepositoryInParentFolders": "always",
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#3B1D61",
+        "titleBar.activeBackground": "#532888",
+        "titleBar.activeForeground": "#FBF9FD"
+    },
+    "editor.codeLens": false,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "files.autoSave": "afterDelay",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active",
+    "csharp.suppressBuildAssetsNotification": true,
+    "git.postCommitCommand": "sync",
+    "sessionlogger.enabled": true,
+    "csharp.debug.console": "externalTerminal",
+    "csharp.referencesCodeLens.enabled": false,
+    "explorer.compactFolders": false,
+    "explorer.sortOrderLexicographicOptions": "unicode",
+    "workbench.editorAssociations": {
+        "*.md": "vscode.markdown.preview.editor"
+    },
+    "clock.alignment": "Right",
+    "clock.format": "HH:MM",
+    "files.associations": {
+        "*.xaml": "xml"
+    },
+    "xml.fileAssociations": [
+        {
+            "pattern": "**/*.xaml",
+            "systemId": "https://raw.githubusercontent.com/karye/xamelot/refs/heads/master/syntax/xaml.xsd"
+        }
+    ],
+    "extensions.allowed": {
+        "ms-dotnettools.csharp": true,
+        "emmanuelbeziat.vscode-great-icons": true,
+        "chrisdias.vscode-opennewinstance": true,
+        "rogalmic.vscode-xml-complete": true,
+        "k--kato.docomment": true,
+        "redhat.vscode-xml": true,
+        "Karye.sessionlogger": true,
+        "eliostruyf.vscode-hide-comments": true,
+        "richardzampieriprog.csharp-snippet-productivity": true,
+        "arcsine.chronicler": true,
+        "gabrielgrinberg.auto-run-command": true,
+        "angelo-breuer.clock": true,
+        "ms-dotnettools.vscodeintellicode-csharp": false,
+        "GitHub.copilot": false
+  },
+}
